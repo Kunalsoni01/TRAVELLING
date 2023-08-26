@@ -1,9 +1,8 @@
-import Home from "../src/Components/Home";
+import Home from "./Components/Home";
 
 
 function App() {
-  return (
-    <div className="App">
+  return (   <div className="App">
       <div className="container my-3">
         <div className="row">
 
